@@ -95,6 +95,7 @@ nav{
   justify-content: center;
   align-items: center;
   text-align: center;
+  overflow: visible;
 }
 
 .about {
@@ -162,7 +163,7 @@ nav{
 
   .text-block {
     max-height: 250px;
-    overflow-y:scroll;
+    overflow-y:visible;
   }
 }
 
